@@ -79,7 +79,7 @@ local connected, connected2, banhammered, ignorethis, ignorethistoo, V1, music, 
 
 -----------------------------------------------------------------------------------------------
 
-local prefix = ">" -- this is also will be modified for me personally
+local prefix = "/" -- it was brutal
 local tag = false
 
 -------------------------------------------- SETUP --------------------------------------------
